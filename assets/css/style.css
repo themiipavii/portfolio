@@ -507,13 +507,13 @@ section {
   fill: #ffae00;
 }
 .services .iconbox-red i {
-  color: #ff5828;
+  color: #ff0000;
 }
 .services .iconbox-red:hover .icon i {
   color: #fff;
 }
 .services .iconbox-red:hover .icon path {
-  fill: #ff5828;
+  fill: #ff0000;
 }
 .services .iconbox-green i {
   color: #2cbd00;
