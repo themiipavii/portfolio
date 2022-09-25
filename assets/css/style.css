@@ -701,3 +701,14 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/*--------------------------------------------------------------
+# CV
+--------------------------------------------------------------*/
+
+.btn.btn-blue {
+    background-color: #3960e1;
+    color: #fff;
+    opacity: 1!important;
+    box-shadow: 0 0.5rem 1.5rem 0 #68cb5b33;
+}
